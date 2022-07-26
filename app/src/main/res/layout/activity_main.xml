@@ -21,7 +21,7 @@
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="match_parent"
-        android:layout_height="300sp"
+        android:layout_height="400sp"
         app:srcCompat="@drawable/picture"
         tools:layout_editor_absoluteX="0dp" />
 
